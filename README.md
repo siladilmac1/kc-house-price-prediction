@@ -1,4 +1,3 @@
-# kc-house-price-prediction
 
 # King County House Price Prediction
 
